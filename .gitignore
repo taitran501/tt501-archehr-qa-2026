@@ -1,0 +1,30 @@
+# API keys — NEVER commit these
+.env
+*.env
+# .env.example is safe to commit (contains no real keys)
+
+# Submission files (contain predictions, not code)
+submission.json
+submission.zip
+*.zip
+
+# Data (MIMIC-derived, cannot be redistributed)
+# Ignore actual data files; .gitkeep placeholders (no extension) are tracked
+data/**/*.xml
+data/**/*.json
+data/**/*.csv
+data/**/*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dev/test intermediate outputs
+result/
+*.txt.bak
+
+# IDE
+.vscode/
+.idea/

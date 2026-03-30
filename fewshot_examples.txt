@@ -1,0 +1,36 @@
+================================================================================
+SELECTED FEW-SHOT EXAMPLES FOR SUBTASK 3
+================================================================================
+
+### Example 1 (Case 4, 71 words)
+**Patient Question:** My doctor performed a cardiac catherization.
+            
+            
+Was this invasive, risky procedure necessary....
+**Clinician Question:** Why was cardiac catheterization recommended to the patient?
+**Reference Answer:** The patient was recommended a cardiac catheterization for worsening heart failure confirmed by left ventricle ejection fraction of 25% on his echocardiogram. He had low output heart failure which caused increasing intra-abdominal pressure resulting in congestive hepatopathy, abdominal pain, and right upper quadrant abdominal tenderness. The cardiac catheterization showed the patient needed milrinone for treatment. Milrinone infusion improved the patient's heart pump function by significantly improving cardiac output and wedge pressure.
+--------------------------------------------------------------------------------
+
+### Example 2 (Case 1, 78 words)
+**Patient Question:** My question is if the sludge was there does not the medication help in flushing it out? Whether ERCP was the only cure?...
+**Clinician Question:** Why was ERCP recommended to him over continuing a medication-based treatment?
+**Reference Answer:** An endoscopic retrograde cholangiopancreatography, ERCP, was recommended to place a common bile duct stent. This stent was placed to allow drainage of the biliary obstruction which was caused by stones and sludge. Due to no improvement in liver function, the patient needed a repeat ERCP. The repeat ERCP showed that the biliary stent placed in the first ERCP was obstructed by stones and sludge. The stones and stent were successfully removed during this procedure by performing a sphincterotomy.
+--------------------------------------------------------------------------------
+
+### Example 3 (Case 9, 75 words)
+**Patient Question:** what treatment provide me at hospital.this is any problem me later...
+**Clinician Question:** What treatments did she receive for complications during her delivery? Will the treatments cause any problems later?
+**Reference Answer:** Due to significant blood loss, elevated LFTs and creatinine, the patient received multiple blood transfusions and fluids requiring intubation and ICU management. She had end-stage organ dysfunction, abdominal compartment syndrome requiring surgery, and continuous dialysis for acute kidney injury. The cerebral edema was managed by neurosurgery. Low cortisol levels were treated with hydrocortisone. The abdomen was left open due to bleeding and then closed successfully. Due to liver failure, she was listed for liver transplantation.
+--------------------------------------------------------------------------------
+
+### Example 4 (Case 8, 74 words)
+**Patient Question:** My main question if I had posion in my bloodstream does it remain in my system? And I am very concerned about my writing capabilities....
+**Clinician Question:** Will the poison damage to his body last and is the confusion related to it?
+**Reference Answer:** Patient has cirrhosis due to alcohol abuse. The long-term liver damage caused toxin buildup in the blood resulting in jaundice and kidney disease. Treatment of the toxin buildup with hydration and medications reduced her score for End-Stage Live Disease (MELD) and improved her creatinine and kidney function. Testing will determine if there may be longterm cognitive deficits related to alcohol abuse. She was diagnosed with a mania and suggested psychiatric treatment to control it.
+--------------------------------------------------------------------------------
+
+### Example 5 (Case 17, 74 words)
+**Patient Question:** My palpitations are benign, I’m told. Fine, how can I slow them or stop them without some antiarrhythmic meds?...
+**Clinician Question:** What should he do to relieve palpitations and anxiety?
+**Reference Answer:** Palpitations may occur if sleep apnea is untreated. Patient was diagnosed with hypercarbia due to severe sleep apnea and noncompliance with wearing a CPAP at night, which is worsening this patient's hypoventilation. Hypoventilation can lead to palpitations due to lack of oxygen in the blood. It is important that he keeps his appointments and continues to take his psychosis medications as prescribed, as noncompliance can lead to an increase in anxiety and schizophrenic episodes.
+--------------------------------------------------------------------------------
